@@ -1,0 +1,2 @@
+"","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"GO:0009986","GO:0009986","cell surface",3,0.938236887441782,1.56673472058847,0.0054973152646382,0.0054973152646382,0.533239580669905,1,"tags=33%, list=1%, signal=34%","84168"

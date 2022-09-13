@@ -1,0 +1,2 @@
+"","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"GO:0048729","GO:0048729","tissue morphogenesis",3,-0.880597014925373,-1.58991953090886,0.01850994909764,0.01850994909764,0.967787163360269,12,"tags=100%, list=17%, signal=87%","8828/10082"
