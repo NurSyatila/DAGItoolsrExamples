@@ -5,6 +5,8 @@ This section describes results from DAGItoolsr package.<br>
 ## 1) GeneSearch Workflow<br>
 
 > results <- genesearch_workflow(queryTerms,disgenet=TRUE,"youremail@gmail.com","yourpassword")<br>
+
+Terminal capture:<br>
 [1] "DisGeNET data will be included."<br>
 [1] "Processing (ClinVar)..."<br>
 [1] "Processing (MedGen)..."<br>
@@ -52,6 +54,7 @@ queryTerms <- c("endometriosis","endometrioma")<br>
 > GSEplatform <- "GPL6102"<br>
 > results <- differentialexpression_single_workflow(queryTerms,GSEaccession,GSEplatform)<br>
 <br>
+
 Terminal Capture:<br>
  "GSE23339"<br>
 [1] "group A:  disease state: endometrioma"<br>
@@ -72,6 +75,8 @@ There were 30 warnings (use warnings() to see them)<br>
 
 > queryTerms <- c("endometriosis","endometrioma")<br>
 > results <- differentialexpression_workflow(queryTerms)<br>
+
+Terminal capture:<br>
 [1] "Processing (MESH)..."<br>
 [1] "Endometriosis" "Endometrioses" "Endometrioma"  "Endometriomas"<br>
 [1] "Processing (GEO DataSets)..."<br>
