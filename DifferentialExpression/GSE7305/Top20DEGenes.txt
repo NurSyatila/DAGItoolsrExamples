@@ -1,0 +1,20 @@
+ID	logFC	Gene.ID	Gene.symbol	Gene.title	DE
+201989_s_at	-337.956716	1389	CREBL2	cAMP responsive element binding protein like 2	Down
+208651_x_at	1251.2745844	100133941	CD24	CD24 molecule	Up
+224345_x_at	-404.611000000001	26355	FAM162A	family with sequence similarity 162 member A	Down
+225613_at	-249.3430518	375449	MAST4	microtubule associated serine/threonine kinase family member 4	Down
+216379_x_at	4002.9315495	100133941	CD24	CD24 molecule	Up
+225611_at	-172.496291	375449	MAST4	microtubule associated serine/threonine kinase family member 4	Down
+1562736_at	-79.21948495	56956	LHX9	LIM homeobox 9	Down
+209771_x_at	4659.6036618	100133941	CD24	CD24 molecule	Up
+229942_at	-291.4573958	54796	BNC2	basonuclin 2	Down
+235141_at	152.4493691	153562	MARVELD2	MARVEL domain containing 2	Up
+228335_at	-1747.0621523	5010	CLDN11	claudin 11	Down
+225846_at	178.0728303	54845	ESRP1	epithelial splicing regulatory protein 1	Up
+219121_s_at	109.6274675	54845	ESRP1	epithelial splicing regulatory protein 1	Up
+45526_g_at	165.244448	79903	NAA60	N(alpha)-acetyltransferase 60, NatF catalytic subunit	Up
+201431_s_at	-1459.6463	1809	DPYSL3	dihydropyrimidinase like 3	Down
+229273_at	254.6085124	6299	SALL1	spalt like transcription factor 1	Up
+220942_x_at	-594.526708000001	26355	FAM162A	family with sequence similarity 162 member A	Down
+202992_at	-3065.601111	730	C7	complement component 7	Down
+223193_x_at	-459.998537	26355	FAM162A	family with sequence similarity 162 member A	Down
